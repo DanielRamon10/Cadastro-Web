@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Projeto kawasaki\bin\Debug\net6.0\Projeto kawasaki.exe
+C:\Users\Usuario\OneDrive\Projeto kawasaki\bin\Debug\net6.0\Projeto kawasaki.deps.json
+C:\Users\Usuario\OneDrive\Projeto kawasaki\bin\Debug\net6.0\Projeto kawasaki.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Projeto kawasaki\bin\Debug\net6.0\Projeto kawasaki.dll
+C:\Users\Usuario\OneDrive\Projeto kawasaki\bin\Debug\net6.0\Projeto kawasaki.pdb
+C:\Users\Usuario\OneDrive\Projeto kawasaki\obj\Debug\net6.0\Projeto kawasaki.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Projeto kawasaki\obj\Debug\net6.0\Projeto kawasaki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Projeto kawasaki\obj\Debug\net6.0\Projeto kawasaki.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Projeto kawasaki\obj\Debug\net6.0\Projeto kawasaki.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Projeto kawasaki\obj\Debug\net6.0\Projeto kawasaki.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Projeto kawasaki\obj\Debug\net6.0\Projeto kawasaki.dll
+C:\Users\Usuario\OneDrive\Projeto kawasaki\obj\Debug\net6.0\refint\Projeto kawasaki.dll
+C:\Users\Usuario\OneDrive\Projeto kawasaki\obj\Debug\net6.0\Projeto kawasaki.pdb
+C:\Users\Usuario\OneDrive\Projeto kawasaki\obj\Debug\net6.0\Projeto kawasaki.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Projeto kawasaki\obj\Debug\net6.0\ref\Projeto kawasaki.dll
