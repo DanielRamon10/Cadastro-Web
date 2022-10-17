@@ -1,0 +1,9 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "descricao": "Farol",
+      "preco": "1.00"
+    }
+  ]
+}
